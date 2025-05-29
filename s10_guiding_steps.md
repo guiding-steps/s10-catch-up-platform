@@ -25,5 +25,6 @@ Note: Also add the dependencies [OpenAPI](https://mvnrepository.com/artifact/org
     
 Considerar la siguiente estructura de archivos como referencia
 
+![alt text](http://url/to/img.png](https://github.com/guiding-steps/s10-catch-up-platform/blob/main/RESTApiFileStructure.PNG)
    
 
