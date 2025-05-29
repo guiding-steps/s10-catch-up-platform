@@ -23,11 +23,7 @@
     
 Note: Also add the dependencies [OpenAPI](https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-starter-webmvc-ui) and [pluralize](https://mvnrepository.com/artifact/io.github.encryptorcode/pluralize). If Spring Initializr does not have them, add the corresponding code on the pom.xml file to get them.
     
+Considerar la siguiente estructura de archivos como referencia
 
-
-   Create a directory java/com/acme/catchup/platform
    
 
-    
-          
-3. 
