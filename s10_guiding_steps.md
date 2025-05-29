@@ -1,4 +1,4 @@
-Steps to Create a RESTful API Connected to a MySQL Database
+#Steps to Create a RESTful API Connected to a MySQL Database
 
 1. Create a Spring Boot-based project using [Spring Initializr](https://start.spring.io/) with the folloing values:
     *Project: Maven
@@ -13,7 +13,7 @@ Steps to Create a RESTful API Connected to a MySQL Database
     *Packaging: Jar
     *Java: 24
 
-    Dependencies:
+    ##Dependencies:
     * Spring Data JPA
     * Validation
     * Spring Web
