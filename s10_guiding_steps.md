@@ -1,19 +1,19 @@
 # Steps to Create the RESTful API "Catch Up Platform" which is Connected to a MySQL Database
 
 1. Create a Spring Boot-based project using [Spring Initializr](https://start.spring.io/) with the following values:
-    *Project: Maven
-    *Language: Java
-    *Spring Boot: 3.5.0
-    *Project Meta:
-        *Group:        com.acme
-        *Artifact:     catchup.platform
-        *Name:         catch-up-platform
-        *Description:  RESTful API using Spring Boot
-        *Package name: 
-    *Packaging: Jar
-    *Java: 24
+    * Project: Maven
+    * Language: Java
+    * Spring Boot: 3.5.0
+    * Project Meta:
+        * Group:        com.acme
+        * Artifact:     catchup.platform
+        * Name:         catch-up-platform
+        * Description:  RESTful API using Spring Boot
+        * Package name: 
+    * Packaging: Jar
+    * Java: 24
 
-    ##Dependencies:
+    ## Dependencies:
     * Spring Data JPA
     * Validation
     * Spring Web
