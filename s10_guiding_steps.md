@@ -6,7 +6,7 @@
     * Spring Boot: 3.5.0
     * Project Meta:
         * Group:        com.acme
-        * Artifact:     catchup.platform
+        * Artifact:     catchup-platform
         * Name:         catch-up-platform
         * Description:  RESTful API using Spring Boot
         * Package name: 
